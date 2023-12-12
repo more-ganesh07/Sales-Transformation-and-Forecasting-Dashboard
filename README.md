@@ -19,3 +19,6 @@ Time Series Analysis:
 ### 4) Applied time series analysis techniques to the data.
 Specifically, used this analysis to achieve a 15-day sales forecasting model.
 Revealed trends in the data, providing valuable insights into sales patterns over the upcoming days.
+
+
+https://github.com/more-ganesh07/Sales-Transformation-and-Forecasting-Dashboard/assets/108267458/c890d97a-caea-4e94-8060-111a88da92fb
