@@ -2,7 +2,7 @@
 
 I spearheaded the transformation of raw data from the Global Super Store into actionable insights, leveraging advanced technologies and strategic data analysis techniques. This initiative involved the use of MS Power BI, DAX, and Excel to create an interactive dashboard and drive informed business strategies.
 
-# 1) Transformation of Raw Data:
+### 1) Transformation of Raw Data:
 
 Led the initiative to transform raw data from the Global Super Store.
 Utilized technology tools such as MS Power BI, DAX (Data Analysis Expressions), and Excel.
